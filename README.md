@@ -68,8 +68,9 @@ If you can imagine it, you can build it.
 
 ## 🤝 Let's Connect!
 
-- 🌐 [naniai.xyz](https://www.naniai.xyz)
+- vihaankanwar35@gmail.com
 - 🪐 [vibeslayer.vercel.app](https://vibeslayer.vercel.app)
+- 「 ✦ Discord ✦ 」@exypher
 - 🐙 [GitHub](https://github.com/VibeSlayer-code)
 
 <p align="center">
