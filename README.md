@@ -18,7 +18,7 @@
 
 ## 🏆 About Me
 
-I'm a <b>pro</b> C++, Python, Rust & Web developer with a passion for crafting cool stuff and solving tough problems.  
+I'm a handsome <b>pro</b> C++, Python, Rust & Web developer with a passion for crafting cool stuff and solving tough problems.  
 I believe code is magic, and creativity is my fuel.  
 If you can imagine it, you can build it.
 
